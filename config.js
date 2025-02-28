@@ -20,7 +20,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Johannesburg
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md-3";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07";
 global.website =process.env.GURL || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/TgwRyHR/Ephoto360-com-166de101e03cd7.jpg" || "https://i.ibb.co/bH1kbX0/a4c0b1af253197d4837ff6760d5b81c0.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://www.google.com/imgres?q=cool%20pic%20of%20miles%20morales&imgurl=https%3A%2F%2Fstatic1.colliderimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F12%2Fmiles-morales-peter-parker-spider-man.jpg&imgrefurl=https%3A%2F%2Fcollider.com%2Fspider-man-miles-morales-better-than-peter-parker%2F&docid=rnlJZJUYekAJRM&tbnid=npKSlM0iipNKtM&vet=12ahUKEwiS4JWw_OaLAxVFXUEAHRPvHDkQM3oECBUQAA..i&w=1400&h=700&hcb=2&ved=2ahUKEwiS4JWw_OaLAxVFXUEAHRPvHDkQM3oECBUQAA" || "https://www.google.com/imgres?q=cool%20pic%20of%20miles%20morales&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1*BCa-iY7kLHyK5c-ezFGRKA.jpeg&imgrefurl=https%3A%2F%2Fkhohannessian.medium.com%2Fspider-man-miles-morales-review-swinging-in-the-city-7c2a94eb2ac5&docid=s7nAYibWy02fQM&tbnid=UE_zAThvphQ8NM&vet=12ahUKEwiS4JWw_OaLAxVFXUEAHRPvHDkQM3oECGEQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwiS4JWw_OaLAxVFXUEAHRPvHDkQM3oECGEQAA" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "Made With LOVE!" 
 
 
